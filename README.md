@@ -12,7 +12,7 @@
 </p> 
 
 - 🏢 I'm a Backend engineer (ASP.Net)
-- 👨‍💻 As a CSE.ZU student.
+
 
 ### Connect with Me :
 
