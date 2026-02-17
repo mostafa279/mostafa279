@@ -14,13 +14,12 @@
 - 🏢 I'm a Backend engineer (ASP.Net)
 
 
-### Connect with Me :
+<!-- ### Connect with Me :
+<!-- <a href="https://www.linkedin.com/in/mostafa-yasser-5802a2243/" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Yasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a >-->
 
-<a href="https://www.linkedin.com/in/mostafa-yasser-5802a2243/" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Yasser-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/mostafa12370" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Yasser-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
-<!-- <a href="mailtomostafatr14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Yasser-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
-
-<!-- ### 🛠 &nbsp;Tech Stack
+<!--<a href="https://t.me/mostafa12370" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Yasser-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<!----> <a href="mailtomostafatr14@gmail.com" target="_blank"><img src="https://img.shields.io/badge/-Mostafa%20Yasser-0077B5?style=for-the-badge&logo=Gmail&logoColor=white"/></a>
+ ### 🛠 &nbsp;Tech Stack
 ![CSharp](https://img.shields.io/badge/-CSharp-05122A?style=flat&logo=CSharp&logoColor=007ACC)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
